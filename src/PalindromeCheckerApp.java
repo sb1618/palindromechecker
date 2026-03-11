@@ -4,7 +4,7 @@ class check_palindrome {
     }
 }
 
-public class Main {
+public class PalindromeCheckerApp {
     public static void main(String[] args){
         check_palindrome c = new check_palindrome();
         c.Greet();
